@@ -8,8 +8,9 @@ namespace OOP2
   //özellik (prop ile oluşturulan)  tuttuğumuz yerde operasyon;operasyon tuttuğumuz yerde özellik tutmuyoruz. 
     
     {
-        
-        
-        
+        public int Id { get; set; }
+        public string MusteriNo { get; set; }
+
+
     }
 }
